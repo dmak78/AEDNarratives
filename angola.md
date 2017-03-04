@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 1,246,700 km²<br />
+Range Area - 323,270 km² (26%)<br />
+Protected Range - 15%<br />
+Information Quality Index (IQI) - 0.09<br />
+CITES Appendix - I<br />
+Listing Year -  2013 (year of accession)
+
 ## Current Issues
 
 Although elephant conservation and monitoring started in Angola after the end of the civil war in 2002, it has concentrated largely in the south-east of the country. A detailed nationwide study of elephant distribution and density is urgently required. Threats include poaching, illegal wildlife trade, human population expansion and settlement together with subsistence agriculture, fire and logging activities. There are weak incentives for elephant conservation and law enforcement is poor due to limited staff and capacity.

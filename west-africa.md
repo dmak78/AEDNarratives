@@ -1,3 +1,10 @@
+## General Statistics
+
+Region Area - 5,096,660 km²<br />
+Range Area - 142,500  km² (3%)<br />
+Protected Range - 70%<br />
+Information Quality Index (IQI) - 0.48
+
 ## Current Issues
 
 West Africa’s elephant populations are mostly small, fragmented and isolated. With growing human populations and increasing infrastructure development, many countries in West Africa are experiencing increased pressure on natural areas from mining, logging and rapid transformation of land to agriculture. These challenges are particularly acute in those countries that have recently emerged from civil strife (GEF, 2010; Mallon et al., 2015). 
@@ -23,3 +30,7 @@ The proportion of elephant range for which elephant estimates are available curr
 At the national level, population estimates for both Benin and Burkina Faso suggest increases in the WAP complex.  Estimates for Côte d’Ivoire, Ghana, Guinea Bissau, Senegal, Sierra Leone and Togo have stayed more or less constant with some higher and lower guesses, while estimates for Guinea, Mali and Nigeria have declined since 2006. Guinea is now reduced to a single small population. Niger’s few remaining elephants are thought to still move in and out of the country as part of the WAP complex. Information on Liberia’s elephants has been substantially improved in this report, adding a small number to guesses originating from 1989/90. Some of the previous numbers, primarily guesses, for Côte d’Ivoire, Ghana, and Nigeria remain unchanged in this report but have become degraded data due to age.
 
 A substantial update of the West African elephant range has been completed for this report, and this has the effect of reducing the total range (known and possible) from 176,000 to 142,000 km², but the percentage of known range has increased from 71% to 79%. The 2015 Great Elephant Census survey of the WAP complex resulted in the addition of areas of known range in Benin and Burkina Faso but more areas were moved to possible and doubtful range. In Côte d’Ivoire, Ghana, Guinea, Guinea Bissau, Niger, Sierra Leone and Togo, many areas of previously known range have been changed to possible and doubtful range. Range loss has been particularly severe in Côte d’Ivoire. In Liberia, the area of known range has been increased with improved access to information following many years of war. In Mali, small areas of doubtful range have been removed, and sightings and data from collared elephants have provided information to refine the range of the Gourma elephants. In Nigeria, two small areas have been moved to known range, but far more has been changed to possible range and even doubtful range. 
+
+<a href="/narratives/images/west-africa/figure-1.png" target="_blank">
+  ![Figure 1](/narratives/images/west-africa/figure-1.png "Figure 1")
+</a>

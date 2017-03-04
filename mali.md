@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 1,240,000 km²<br />
+Range Area - 25,495 km² (2%)<br />
+Protected Range - 89%<br />
+Information Quality Index (IQI) - 0.83<br />
+CITES Appendix - I<br />
+Listing Year -  1994 (year of accession)
+
 ## Current Issues
 
 Elephants in Mali are largely confined to Gourma, an arid area in the Sahel north of the border with Burkina Faso, where the elephants live alongside pastoralists. They are the continent’s most northerly elephants, and together with Namibia’s Kunene elephants, the most adapted to arid conditions. They move long distances in a circular migration pattern with individual home ranges being the largest recorded in Africa (Wall et al., 2013). 

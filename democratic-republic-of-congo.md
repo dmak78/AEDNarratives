@@ -1,3 +1,13 @@
+## General Statistics
+
+Country Area - 2,345,410 km²<br />
+Range Area - 223,248 km² (10%)<br />
+Protected Range - 54%<br />
+Information Quality Index (IQI) - 0.08<br />
+CITES Appendix - I
+
+Listing Year - 1990
+
 ## Current Issues
 
 The Democratic Republic of Congo (DRC) has the largest expanse of tropical forest of all the Central African countries, comprising around 61% of the total (Verhegghen et al., 2012). A civil war from 1996 to 2003 resulted in high levels of poaching as militias, refugees and military personnel occupied protected areas, and the Institut Congolais pour la Conservation de la Nature (ICCN) was forced to cease normal operations, in some cases abandoning entire protected areas, while many staff members were killed. Elephant meat and ivory was used to provision and fund insurgents and the military (Beyers et al., 2011). Even after the end of the civil war, there have been continuing impacts from the displacement of human populations, ready availability of weapons, the activities of remaining rebel groups and rogue elements of the army, as well as growing threats such as new road developments, growing human populations and immigration (Beyers et al., 2011; Nackoney et al., 2014). The consequence of this is that elephant populations, even in major protected areas, have been reduced to extremely low densities, and substantial areas of range appear to have been lost. Despite this, the only population recorded as having been completely lost is that of the Bushimae Reserve and Hunting Area, and there have probably not been elephants there for many years.

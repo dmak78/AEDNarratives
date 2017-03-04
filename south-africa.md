@@ -1,3 +1,17 @@
+## General Statistics
+
+Country Area - 2,345,410 km²
+
+Range Area - 30,651 km² (3%)
+
+Protected Range - 93%
+
+Information Quality Index (IQI) - 0.64
+
+CITES Appendix - II
+
+Listing Year -  2000
+
 ## Current Issues
 
 Apart from the large population of elephants in the Kruger National Park, most of South Africa’s elephant populations exist in relatively small fenced areas (Department of Environmental Affairs and Tourism, 2008), many of which are privately owned. In some places, local elephant overabundance has led to adverse impacts on other biodiversity and a number of management approaches have been undertaken. These include the use of immuno-contraception to control reproduction (Delsink et al., 2013).

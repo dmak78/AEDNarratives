@@ -1,3 +1,10 @@
+## General Statistics
+
+Total Area - 20,731,202 km2<br />
+Range Area - 3,132,238 km2 (15%)<br />
+Protected Range - 30 %<br />
+Information Quality Index (IQI) - 0.45
+
 ## Current Issues
 
 This is the first African Elephant Status Report in 25 years which has reported a continental decline in elephant numbers. The decline is largely caused by the surge in poaching for ivory that began around 2006 (CITES, 2016), the worst that Africa has experienced since the 1970s and 1980s. Underlying conservation issues, particularly loss of habitat and increasing human elephant conflict, are still of critical significance but are receiving less attention because of the poaching crisis.
@@ -38,3 +45,22 @@ The distribution of elephants varies considerably across the four regions from s
  
 The total area of known and possible elephant range at the continental level is currently estimated at slightly over  3.1 million km². This is hardly changed since the previous report. This is because most of the changes since the AESR 2007  were minor modifications rather than large scale changes. Improved knowledge of elephant distribution is reflected by the proportion of range categorized as known,  which has increased from 63% to 67%. Significant range expansion has occurred in Botswana and Kenya.
 
+<a href="/narratives/images/africa/figure-1.png" target="_blank">
+  ![Figure A](/narratives/images/africa/figure-a.png "Figure A")
+</a>
+
+<a href="/narratives/images/africa/figure-1.png" target="_blank">
+  ![Figure B](/narratives/images/africa/figure-b.png "Figure B")
+</a>
+
+<a href="/narratives/images/africa/figure-1.png" target="_blank">
+  ![Figure C](/narratives/images/africa/figure-c.png "Figure C")
+</a>
+
+<a href="/narratives/images/africa/figure-1.png" target="_blank">
+  ![Table 1](/narratives/images/africa/table-1.png "Table 1")
+</a>
+
+<a href="/narratives/images/africa/figure-1.png" target="_blank">
+  ![Table 2](/narratives/images/africa/table-2.png "Table 2")
+</a>

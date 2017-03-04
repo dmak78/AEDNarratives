@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 619,745 km²<br />
+Range Area - 309,811 km² (50%)<br />
+Protected Range - 26%<br />
+Information Quality Index (IQI) - 0.23<br />
+CITES Appendix - N/A<br />
+Listing Year -  - 
+
 ## Current Issues
 
 South Sudan acquired its independence from Sudan in 2011, after a long running civil war which ended in 2005. Efforts were made by the new country to develop a conservation programme and to support protected areas, but these were suspended when a new civil war broke out in 2013. A series of surveys, which took place from 2007-2010, gave hope that more elephants had survived than was previously thought, but there may have been a reduction in numbers thereafter. A third of the 60 elephants collared by the Wildlife Conservation Society from 2010 were believed to have been poached (Russo, 2014).

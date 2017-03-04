@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 36,120 km²<br />
+Range Area - 1,346 km² (4%)<br />
+Protected Range - 0%<br />
+Information Quality Index (IQI) - 0.00<br />
+CITES Appendix - I<br />
+Listing Year -  1990
+
 ## Current Issues
 
 Only a handful of elephants were reported from Guinea Bissau more than ten years ago (Brugière et al., 2006). It is believed that a small number may still survive (Brugière, pers. comm., 2016; Goedmakers, pers. comm., 2016) but their future is very uncertain. 

@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 945,090 km²<br />
+Range Area - 389,921 km² (41%)<br />
+Protected Range - 43%<br />
+Information Quality Index (IQI) - 0.58<br />
+CITES Appendix - I<br />
+Listing Year -  1990
+
 ## Current Issues
 
 Tanzania still has important elephant populations, a large elephant range and significant coverage of protected areas, despite heavy losses of elephants in the west and south of the country. With a rapidly growing human population, the country faces serious challenges in conserving elephant populations. The loss of connectivity between core wildlife habitat areas is a growing concern as corridors are becoming blocked by expanding agriculture, human settlements and livestock grazing, and destruction of habitats for logging and charcoal production (TAWIRI, 2010). 

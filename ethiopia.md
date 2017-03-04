@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 1,127,127 km²<br />
+Range Area - 22,264 km² (2%)<br />
+Protected Range - 56%<br />
+Information Quality Index (IQI) - 0.39<br />
+CITES Appendix - I<br />
+Listing Year - 1990
+
 ## Current Issues
 
 Elephant populations in Ethiopia are mostly small and scattered, primarily occurring in the peripheral low-lying parts of the country, or in remnant forests. The formal establishment and gazettement of protected areas in Ethiopia took place in 2014. Delays in this process were in part due to the devolution of authority to a regional level. In many instances boundaries have not been demarcated and people continue to live in protected areas. There is little active management or patrolling of protected areas. Large-scale agricultural developments are a threat to a number of Ethiopia’s remaining elephant populations, particularly around Omo and Gambella National Parks in the west of the country. 

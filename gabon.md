@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 267,670 km²<br />
+Range Area - 213,373 km² (80%)<br />
+Protected Range - 18%<br />
+Information Quality Index (IQI) - 0.09<br />
+CITES Appendix - I<br />
+Listing Year - 1990
+
 ## Current Issues
 
 Gabon is a relatively stable country with a low human population concentrated in the cities. Over 80% of the country is forested, with Gabon’s forests accounting for 12% of the total African tropical moist forest area (Verheggen et al., 2012). There are small areas of savanna in the Batéké Plateau in the south-east and behind the coastal strip. All elephants found in Gabon are forest elephants including those found in the savanna patches (Roca et al., 2015).

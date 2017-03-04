@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 28,050 km²<br />
+Range Area - 19,701 km² (70%)<br />
+Protected Range - 21%<br />
+Information Quality Index (IQI) - 0.57<br />
+CITES Appendix - I<br />
+Listing Year - 1992 (year of accession)
+
 ## Current Issues
 
 Río Muni is the mainland portion of Equatorial Guinea, a country with a rapidly developing economy based on petroleum extraction, and associated infrastructure development, which is having a negative impact on wildlife. Around 80% of Río Muni is covered in mostly secondary tropical forest. Commercial hunting has been facilitated in recent years by the expansion of the road network across the country and the ongoing construction of a new capital city in the centre-east of the country. Elephant poaching is widespread, especially near roads. Hunting signs were found inside all protected areas during the course of a nationwide survey (Murai et al., 2013).

@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 112,620 km²<br />
+Range Area - 9,112 km² (8%)<br />
+Protected Range - 100%<br />
+Information Quality Index (IQI) - 0.66<br />
+CITES Appendix - I<br />
+Listing Year -  1990
+
 ## Current Issues
 
 Elephants in Benin are now almost completely confined to the northern border region adjoining Burkina Faso and Niger. The group of protected areas in this region are known collectively as the WAP complex (Parc W, Arly National Park and Pendjari National Park), with Pendjari NP, Parc W du Benin and hunting zones within Benin. 

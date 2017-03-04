@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 1,267,000 km²<br />
+Range Area - 2,333 km² (0.2%)<br />
+Protected Range - 100%<br />
+Information Quality Index (IQI) - 0.00<br />
+CITES Appendix - I<br />
+Listing Year -  1990
+
 ## Current Issues
 
 Only one elephant population is known to occur in Niger, forming part of the WAP transfrontier population. It is possible that elephants also occur on the Nigerian border, but there is no recent information. 

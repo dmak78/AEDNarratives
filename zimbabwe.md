@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 390,580 km²<br />
+Range Area - 81,228 km² (21%)<br />
+Protected Range - 61%<br />
+Information Quality Index (IQI) - 0.86<br />
+CITES Appendix - II<br />
+Listing Year -  1997
+
 ## Current Issues
 
 Poaching of elephants for ivory has escalated in the past ten years and has become a major problem in Zimbabwe. A worrying recent development has been the emergence of poisoning as a poaching technique. Just over 100 elephants were killed in a single cyanide poisoning incident in Hwange National Park in late 2013 (Muboko et al., 2014). The impact of poaching has been highest in the north of the country, particularly in the Sebungwe Region to the south of Lake Kariba, and the Lower Zambezi Region (Dunham et al., 2015c). Although elephant numbers have increased in Gonarezhou National Park, it too experienced an increase in poaching in 2015 (Dunham & van der Westhuizen, 2015).

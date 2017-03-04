@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 71,740 km²<br />
+Range Area - 1,353 km² (2%)<br />
+Protected Range - 58%<br />
+Information Quality Index (IQI) - 0.00<br />
+CITES Appendix - I<br />
+Listing Year -  1994 (year of accession)
+
 ## Current Issues
 
 There is little information about the current status of the few elephants remaining in Sierra Leone, and it is believed that the civil war of 1991-2001 had a severe impact on them (Lindsell et al., 2011).  Agence Presse Francaise (AFP, 2009) reported in November 2009 that the last elephants in Sierra Leone had been wiped out by poaching. This report has been widely circulated and repeated in news items as recently as 2013. This was not correct; several small populations still survive, although they are under pressure from poaching, mining and logging (Ballweg et al., 2013).

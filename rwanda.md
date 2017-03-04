@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 26,340 km²<br />
+Range Area - 1,079 km² (4%)<br />
+Protected Range - 100%<br />
+Information Quality Index (IQI) - 0.70<br />
+CITES Appendix - I<br />
+Listing Year - 1990
+
 ## Current Issues
 
 Rwanda is one of Africa’s smallest and most densely populated nations and there is little space for wildlife. Only two fragments of elephant range remain: the Akagera National Park on the north-eastern border with Tanzania, to which elephants were translocated in the mid-1970s, and the Volcans National Park on the northern border with the DRC. In 2010, the African Parks Network took over responsibility for the management of Akagera NP (Sullivan, 2014)

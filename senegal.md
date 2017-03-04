@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 196,190 km²<br />
+Range Area - 1,090 km² (1%)<br />
+Protected Range - 100%<br />
+Information Quality Index (IQI) - 0.07<br />
+CITES Appendix - I<br />
+Listing Year -  1990
+
 ## Current Issues
 
 Niokolo Koba National Park is the last place where elephants are known to occur in Senegal, the westernmost elephant range state, but the park is in a serious state of deterioration. Illegal activity is widespread, including cattle grazing, commercial timber exploitation and wildlife poaching. It was added to the UNESCO list of World Heritage Sites in Danger in 2007 and remains on the list (UNESCO World Heritage Centre, n.d.). Emergency funding for anti-poaching was provided by the Rapid Response Facility in 2011 (UNESCO World Heritage Centre, 2011). Under these circumstances it is remarkable that such a small and isolated elephant population has managed to survive for so long.

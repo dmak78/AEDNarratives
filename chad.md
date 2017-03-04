@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 1,284,000 km²<br />
+Range Area - 61,490 km² (5%)<br />
+Protected Range - 23%<br />
+Information Quality Index (IQI) - 0.32<br />
+CITES Appendix - I<br />
+Listing Year - 1990
+
 ## Current Issues
 
 The northern part of Chad is desert, and elephants are confined to the south, particularly in the Sudanian zone in the far south. Conservation efforts have been affected by a difficult security situation, including coup attempts in 2006 and 2008, and the presence of Boko Haram in the west of the country. Substantial areas of elephant range are being lost due to expanded settlement and conversion of rangeland to agriculture. However, there are also some areas of increased elephant range, apparently a result of elephants moving to safer areas from Cameroon and Central African Republic (Antonínová et al., 2015).

@@ -1,3 +1,10 @@
+## General Statistics
+
+Region Area - 4,295,972 km²<br />
+Range Area - 880,648  km² (20%)<br />
+Protected Range - 35%<br />
+Information Quality Index (IQI) - 0.49
+
 ## Current Issues
 
 Eastern Africa has been the region most affected by poaching, having experienced an approximately 50% decline in estimates from surveys since the AESR 2007, largely attributed to a greater than 60% decline in Tanzania’s elephant numbers, including heavy losses in some of the region’s formerly most significant populations.
@@ -26,3 +33,6 @@ No populations are recorded as having been lost in Eastern Africa.
 
 There has been no net increase in range but improved information has led to an increase in the proportion of known range, which has increased from approximately 500,000 km² (57% of overall range) in the AESR 2007 to approximately 736,000 km² (about 85% of total range) in 2015. This is mostly the result of better information on range in South Sudan and Tanzania but also a real increase in range in the Laikipia-Samburu and Magadi areas in Kenya. 
 
+<a href="/narratives/images/eastern-africa/figure-1.png" target="_blank">
+  ![Figure 1](/narratives/images/eastern-africa/figure-1.png "Figure 1")
+</a>

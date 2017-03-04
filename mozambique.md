@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 801,590 km²<br />
+Range Area - 320,402 km² (40%)<br />
+Protected Range - 17%<br />
+Information Quality Index (IQI) - 0.48<br />
+CITES Appendix - I<br />
+Listing Year -  1990
+
 ## Current Issues
 
 Mozambique has been severely affected by the recent upsurge in elephant poaching. This has been particularly striking in the country’s largest population in the Niassa ecosystem (WCS, 2015b). 

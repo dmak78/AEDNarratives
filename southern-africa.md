@@ -1,3 +1,10 @@
+## General Statistics
+
+Region Area - 5,973,020 km²<br />
+Range Area - 1,325,998  km² (22%)<br />
+Protected Range - 23%<br />
+Information Quality Index (IQI) - 0.50
+
 ## Current issues
 
 Southern Africa continues to hold by far the largest number of elephants on the continent, and nearly 75% of southern Africa’s elephants occur as part of a single population in the Kavango Zambezi Transfrontier Conservation Area (KAZA TFCA), some 520,000 km² in extent. Whereas conservation challenges associated with high elephant densities in large protected areas were common in the region a decade ago, contemporary elephant conservation in southern Africa is now also faced with the emergence of a growing poaching threat (UNEP et al., 2013). While overall, poaching has not had the same impact in Southern Africa as in other regions, it has severely affected populations in Zimbabwe, Angola, Mozambique, and to a lesser extent, Zambia. 
@@ -31,3 +38,7 @@ Southeast Angolan and southwest  Zambian elephant populations continue to experi
 In Namibia the elephant population has increased, notably in the north-east Kavango and Zambezi Regions. South Africa’s elephant population, mostly contained within Kruger National Park, is increasing, with small but growing numbers of elephants in other provincial and private reserves. Zambia’s elephant population appears to be relatively stable apart from losses in the south-west of the country which amount to approximately 2% of the overall population. Zimbabwe’s elephant population has declined due to reductions in two populations, partially compensated by increases in two other populations.
 
 The current range area for Southern Africa is 1,325,998 km², a slight increase from the 1,305,000 km² recorded in the AESR 2007, and the percentage of this which is known range has increased from 53% to 60%. There has been no major loss of elephant range, and one notable expansion of range in Botswana where elephants were observed in large groups for the first time in the Central Kalahari Game Reserve (DWNP, 2016). Other changes result from improved information, particularly in Angola.
+
+<a href="/narratives/images/southern-africa/figure-1.png" target="_blank">
+  ![Figure 1](/narratives/images/southern-africa/figure-1.png "Figure 1")
+</a>

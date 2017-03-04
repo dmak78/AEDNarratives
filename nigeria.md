@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 923,770 km²<br />
+Range Area - 20,088 km² (2%)<br />
+Protected Range - 78%<br />
+Information Quality Index (IQI) - 0.09<br />
+CITES Appendix - I<br />
+Listing Year -  1990
+
 ## Current Issues
 
 Nigeria's elephants live in small, relict populations, some in forests in the south of the country and others in savannas in the north. The only relatively well-protected population is in Yankari National Park in central eastern Nigeria, but poaching continues to be a threat even there (Dunn, pers. comm., 2015). Yankari NP is managed by the Wildlife Conservation Society under contract from the Bauchi State Government. 

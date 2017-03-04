@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 825,418 km²<br />
+Range Area - 164,069 km² (20%)<br />
+Protected Range - 18%<br />
+Information Quality Index (IQI) - 0.43<br />
+CITES Appendix - II<br />
+Listing Year -  1997
+
 ## Current Issues
 
 Namibia’s elephants occur across the northern region of the country, mostly in national parks and community areas. Their range encompasses a wide variety of habitats, from the extremely arid north-west Kunene Region to the well-watered Zambezi (formerly Caprivi) Region, where the elephants form part of the KAZA transfrontier population. Although poaching has increased in the Zambezi Region in the past ten years, it is not seen as a significant threat in Etosha National Park or for populations in Khaudum National Park and Kunene Region.

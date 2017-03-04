@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 342,000 km²<br />
+Range Area - 150,937 km² (44%)<br />
+Protected Range - 21%<br />
+Information Quality Index (IQI) - 0.10<br />
+CITES Appendix - I<br />
+Listing Year - 1990
+
 ## Current Issues
 
 Congo probably still holds Central Africa’s second largest number of forest elephants, although they are increasingly threatened by poaching and human encroachment. Almost all of Congo’s elephants occur in forest areas in the north of the country, with smaller numbers on the Atlantic coast, and along the Gabonese border to the west. Elephants have been almost totally eliminated from the savanna-forest mosaic of the rest of the country.

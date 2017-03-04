@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 17,360 km²<br />
+Range Area - 50 km² (0%)<br />
+Protected Range - 80%<br />
+Information Quality Index (IQI) - 0<br />
+CITES Appendix - I<br />
+Listing Year -  1997 (year of accession)
+
 ## Current Issues
 
 Swaziland has only two small fenced populations of elephants and concerns have been raised about their impact on the biodiversity of these areas. In 2016, the U.S. Fish and Wildlife Service approved an application to import 18 African elephants from Swaziland to three zoos in the United States. In March 2016 the elephants were flown to the US despite a pending legal challenge to block the importation (Peters, 2016)

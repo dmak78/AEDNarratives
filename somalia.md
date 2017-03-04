@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 637,660 km²<br />
+Range Area - 4,525 km² (1%)<br />
+Protected Range - 0%<br />
+Information Quality Index (IQI) - 0.00<br />
+CITES Appendix - I<br />
+Listing Year - 1990
+
 ## Current Issues
 
 Ongoing political instability in Somalia has made conservation assessment work impossible for over 25 years, and it is not known whether there is still a resident elephant population in the country.

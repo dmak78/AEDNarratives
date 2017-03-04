@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 111,370 km²<br />
+Range Area - 28,950 km² (26%)<br />
+Protected Range - 34%<br />
+Information Quality Index (IQI) - 0.03<br />
+CITES Appendix - I<br />
+Listing Year -  1990
+
 ## Current Issues
 
 Liberia is the most densely forested country in West Africa, with two large forest blocks in the west and east of the country, including approximately 40% of the remaining Upper Guinea forest (Tweh et al., 2015). Economic development in Liberia after the end of the civil war in 2003 has led to a rapid expansion of oil palm plantations and logging concessions, meaning that natural forests are once again under great threat (Tweh et al., 2015; Wilcove & Koh, 2010).

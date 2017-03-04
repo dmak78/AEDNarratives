@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 475,440 km²<br />
+Range Area - 89,718 km² (19%)<br />
+Protected Range - 27 %<br />
+Information Quality Index (IQI) - 0.47<br />
+CITES Appendix - I<br />
+Listing Year - 1990
+
 ## Current Issues
 
 Elephants in Cameroon occur in three distinct bio-geographical regions. Savanna elephants are found in the northern Sahelian and Sudanian regions, while forest elephants occur in the southern forested area (Roca et al., 2015; Tchamba et al., 1997). Northern Cameroon used to hold some of the most important elephant populations in the Central African savanna. However, heavy poaching was reported in 2012 and it appears that the majority of these elephants have been lost.

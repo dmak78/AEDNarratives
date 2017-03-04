@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 238,540 km²<br />
+Range Area - 15,181 km² (6%)<br />
+Protected Range - 47%<br />
+Information Quality Index (IQI) - 0.37<br />
+CITES Appendix - I<br />
+Listing Year -  1990
+
 ## Current Issues
 
 Ghana has a small number of elephant populations in savanna and forest habitats. As a result of habitat fragmentation and human population density, elephants are becoming increasingly restricted to protected areas. A new approach to anti-poaching in Ghana’s protected areas was introduced in 2004. This focused on adaptive management and patrol management, as well as increasing ranger numbers in some areas, and had the effect of reducing poaching levels (Jachmann, 2008).

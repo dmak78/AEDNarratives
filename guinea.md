@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 245,860 km²<br />
+Range Area - 1,557 km² (1%)<br />
+Protected Range - 78%<br />
+Information Quality Index (IQI) - 0.0<br />
+CITES Appendix - I<br />
+Listing Year -  1990
+
 ## Current Issues
 
 Ziama Strict Nature Reserve is believed to hold Guinea’s single remaining elephant population. The area is under pressure from growing human populations and increased cultivation at the edges of the reserve. Crop raiding by elephants is a continuing problem (Ministère de l’Agriculture, de l’Elévage, de l’Environnement, des Eaux et des Forêts, 2007). Law enforcement improved in 2015 with support from Fauna and Flora International (Mollon, pers. comm., 2016).

@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 121,320  km²<br />
+Range Area - 5,275 km² (4%)<br />
+Protected Range - 0%<br />
+Information Quality Index (IQI) - 0.00<br />
+CITES Appendix - I<br />
+Listing Year - 1994 (year of accession)
+
 ## Current Issues
 
 Elephants in Eritrea are confined to the small area of Gash-Setit along the Ethiopian border in the southwest of the country. Continued tension between Eritrea and Ethiopia make conservation and research difficult in this area. The elephants are not within a protected area and conflicts with farmers are common (Shoshani et al., 2004).

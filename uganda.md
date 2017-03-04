@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 236,040 km²<br />
+Range Area - 17,048 km² (7%)<br />
+Protected Range - 73%<br />
+Information Quality Index (IQI) - 0.51<br />
+CITES Appendix - I<br />
+Listing Year -  1991 (year of accession)
+
 ## Current Issues
 
 Elephant numbers in Uganda were reduced to a very low level by the late 1980s as a result of poaching for ivory and conflict for land with Uganda’s dense human population (Uganda National Parks, 1991). Since then elephant populations, which are mostly confined to a small number of protected areas, are believed to have slowly increased. 

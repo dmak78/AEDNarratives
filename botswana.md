@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 600,370 km²<br />
+Range Area - 228,073 km² (38%)<br />
+Protected Range - 16%<br />
+Information Quality Index (IQI) - 0.52<br />
+CITES Appendix - II<br />
+Listing Year -  1997
+
 ## Current Issues
 
 Botswana has by far the largest elephant population of any country in Africa. The vast majority occur in the north of Botswana within the Kavango-Zambezi Transfrontier Conservation Area (KAZA TFCA), shared by Botswana, Namibia, Zambia, Zimbabwe and Angola, and elephants move between these countries. 

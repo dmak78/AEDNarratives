@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 274,200 km²<br />
+Range Area - 15,110  km² (6%)<br />
+Protected Range - 95%<br />
+Information Quality Index (IQI) - 0.61<br />
+CITES Appendix - I<br />
+Listing Year -  1990
+
 ## Current Issues
 
 Burkina Faso hosts the largest population of elephants in West Africa, most inhabiting the transfrontier WAP complex, which includes Parc W du Burkina, Arly NP and surrounding hunting zones in Burkina Faso. Since 2012, Burkina Faso has experienced a new wave of elephant poaching. While few elephants (13 to 20 per year) were poached during the previous decade, the number of carcasses increased to 50 to 86 per year in the last ten years (DFC, 2015). During the 2015 survey of the WAP complex, 76% of the observed carcasses were recorded in the Burkina Faso portion of the complex (Bouché et al., 2015). This is occurring in the context of strong socio-political change and associated insecurity in the country. 

@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 622,980 km²<br />
+Range Area - 24,619 km² (4%)<br />
+Protected Range - 21%<br />
+Information Quality Index (IQI) - 0.35<br />
+CITES Appendix - I<br />
+Listing Year - 1990
+
 ## Current Issues
 
 Elephant populations in the Central African Republic (CAR) occur in the savannas of the north and in forest areas, particularly in the southwest. Elephants, along with many other wildlife species, have almost disappeared from the north of the country, despite a very low human population. The main reasons are thought to be the increase in cattle transhumance, civil disorder, the increase in weapons and commercial poachers from other countries. Protected areas have been ineffective, since elephant densities were lower there than in nearby hunting areas (Bouché et al., 2010).

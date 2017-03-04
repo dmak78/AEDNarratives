@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 322,460 km²<br />
+Range Area - 14,578 km² (5%)<br />
+Protected Range - 72%<br />
+Information Quality Index (IQI) - 0.18<br />
+CITES Appendix - I<br />
+Listing Year -  1994 (year of accession)
+
 ## Current Issues
 
 Côte d’Ivoire has suffered from civil unrest and violence in recent years, and this has affected conservation efforts. The civil war, which started in 2002, split the country between the rebel-held north and the government-controlled south. A power-sharing deal in 2007 presented the prospect of peace, but a 2010 presidential poll led to further violence (International Crisis Group, 2011). This lack of stability has meant that little attention has been paid to conservation and protected areas (Koné, 2013). Wildlife in protected areas is threatened by hunting, the encroachment of cocoa plantations on protected area boundaries in the forest zone, and expansion of illegal cocoa farming within parks and reserves (Bitty et al., 2015). 

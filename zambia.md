@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 752,610 km²<br />
+Range Area - 170,466 km² (23%)<br />
+Protected Range - 27%<br />
+Information Quality Index (IQI) - 0.50<br />
+CITES Appendix - I<br />
+Listing Year -  1990
+
 ## Current Issues
 
 Zambia has a number of large protected areas, and much of the country is covered by game management areas. However, wildlife densities are generally low. Elephant populations were badly affected by poaching in the late 1970s and poaching for ivory continues to be a problem (Nyirenda et al., 2015). The large size of the national parks and particularly of the game management areas makes it difficult to manage them effectively with limited resources (Lindsey et al., 2014). 

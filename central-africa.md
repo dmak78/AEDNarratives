@@ -1,3 +1,10 @@
+## General Statistics
+
+Region Area - 5,365,550 km²<br />
+Range Area - 783,085 km² (15%)<br />
+Protected Range - 30%<br />
+Information Quality Index (IQI) - 0.13
+
 ## Current Issues
 
 Central Africa’s elephants have been substantially affected by ivory poaching over the past ten years (CITES, 2016; Maisels, Strindberg et al., 2013b; UNEP et al., 2013; Wittemyer et al., 2014). Evidence from the systematic carcass reports sent to MIKE shows that significant Central African poaching was already occurring in 2003, long before it became unsustainable in Eastern and Southern Africa (CITES Secretariat, 2016). Because elephant distribution and abundance in Central Africa is driven primarily by poaching and not by habitat availability, elephant strong-holds are the areas with least human impact. They are generally areas with effective anti-poaching protection and are also usually remote from roads, settlements, navigable rivers, or even hunting trails (Blake et al., 2008; Laurance et al., 2006; Maisels, Strindberg et al., 2013b; Yackulic et al., 2011). New development corridors being created throughout the region are likely to have a negative impact on elephant populations (Laurance et al., 2015). Political insecurity and lack of government control over remote areas continues to have a negative impact on elephant conservation, particularly in the Central African Republic and the Democratic Republic of Congo (DRC).
@@ -29,3 +36,7 @@ Eighty percent of elephant range in Gabon has not been surveyed in the past five
 Populations recorded as having been lost in the last ten years include those of the Siniaka-Minia FR in Chad and Bushimae in the DRC. However, since populations in the extensive Central African forests are much less clearly defined than in other parts of Africa, loss of numbers and range is more likely to be recorded than the loss of discrete populations.
   
 Substantial changes have been made to the range maps, but these are mostly the result of improved information, rather than real changes in range, except in the case of the Central African Republic, where almost all of the range in the north and east of the country has been lost. There has been a decrease of recorded range from about 975,000 km² to about 780,000 km² with known range decreasing from 82% to 58%.
+
+<a href="/narratives/images/central-africa/figure-1.png" target="_blank">
+  ![Figure 1](/narratives/images/central-africa/figure-1.png "Figure 1")
+</a>

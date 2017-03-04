@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 118,480 km²<br />
+Range Area - 7,789 km² (7%)<br />
+Protected Range - 89%<br />
+Information Quality Index (IQI) - 0.55<br />
+CITES Appendix - I<br />
+Listing Year -  1990
+
 ## Current Issues
 
 Because of the country’s high human population density, Malawi's elephants are almost entirely confined to protected areas. As a consequence, elephant populations in Malawi are small and fragmented. Human-elephant conflict is prevalent as a result, and poaching for meat and ivory is believed to be further reducing certain populations.

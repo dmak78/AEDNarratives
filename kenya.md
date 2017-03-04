@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 582,650 km²<br />
+Range Area - 130,725 km² (22%)<br />
+Protected Range - 27%<br />
+Information Quality Index (IQI) - 0.59<br />
+CITES Appendix - I<br />
+Listing Year - 1990
+
 ## Current Issues
 
 There was an upsurge in poaching between 2008 and 2012, particularly in Laikipia-Samburu and Tsavo.  This had reduced by 2014-15 due to improved law enforcement, and increased penalties for illegal killing of endangered species, including elephants laid out in a new Wildlife Conservation and Management Act (Republic of Kenya, 2013).

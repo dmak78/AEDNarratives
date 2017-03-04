@@ -1,3 +1,12 @@
+## General Statistics
+
+Country Area - 56,790 km²<br />
+Range Area - 6,307 km² (11%)<br />
+Protected Range - 75%<br />
+Information Quality Index (IQI) - 0.00<br />
+CITES Appendix - I<br />
+Listing Year -  1990
+
 ## Current Issues
 
 There are very few elephants remaining in Togo. During civil disturbances from 1990-1992, people were encouraged to settle in the protected areas, and it is believed that the majority of elephants were killed or fled to neighbouring countries at that time (Okoumassou et al., 1998). Some attempts have been made to rehabilitate the parks, but their suitability for elephants is limited because they are now heavily settled (Polo-Akpisso et al., 2015). There is a UNDP project to rehabilitate Kéran National Park (République Togolaise, 2015). Fazao-Malfakassa National Park was being managed by the Franz Weber Foundation, but they withdrew at the end of 2015 (Weber, pers. comm., 2016).
