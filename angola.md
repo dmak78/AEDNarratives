@@ -38,3 +38,4 @@ In the AESR 2007 there was an estimate of 60 elephants in the Bongola area on th
 There is also a small area of elephant range in the Cabinda Enclave, a separate section of Angola surrounded by DRC and the Republic of Congo (Heffernan, 2005) but there is no estimate for this area.
 
 Substantial changes have been made to the range map (Vaz Pinto & Verissimo, pers. comm., 2014). These include the removal of a large area of **possible range** in the dry south-west part of the country, the addition of a new area of **possible range** on the Zambian border, and a more defined range, including some **known range**, both east of Luanda and on the border with the DRC.
+
